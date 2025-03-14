@@ -1,9 +1,7 @@
-# Hunter Seeker
+# LÖVE 2D Example
 
 This was going to be a framework for a 2D-Zelda like game written in [LÖVE](https://love2d.org/)
 but I decided to pursue some other projects.
-
-It may not run, but an exmaple below video will show what all has been made.
 
 ### Lua notes
 
@@ -18,10 +16,7 @@ It may not run, but an exmaple below video will show what all has been made.
 
 ##### Sprites
 
-- [STRANDED by penusbmic](https://penusbmic.itch.io/stranded-top-down-sci-fi-hero)
-
-##### PS4 buttons
-
+- [Zelda Sprites from Spriter's Resource](https://www.spriters-resource.com/nes/legendofzelda/sheet/8366/)
 - [PS4 BUTTONS FOR GUI by narehop](https://narehop.itch.io/ps4-controller-buttons-free)
 
 ##### Fonts
@@ -29,4 +24,4 @@ It may not run, but an exmaple below video will show what all has been made.
 - [m6x11](https://managore.itch.io/m6x11)
 - [m5x7](https://managore.itch.io/m5x7)
 
-<video src="./example.mp4" />
+Refer to `exmaple.mp4` for an exmaple.
